@@ -19,10 +19,6 @@ namespace Utskrift_och_Inmatning
 			int nr = Convert.ToInt32(age); //Konverterar från string till int med hjälp av ToInt32-metod
 			Console.WriteLine("Du är med andra ord " + (nr * 365) + " dagar ung"); //Adderar medelande med konverterad string samt uträkning
 
-
-
-
-
 		}
 	}
 }
